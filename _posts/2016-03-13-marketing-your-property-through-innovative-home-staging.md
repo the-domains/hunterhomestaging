@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hunter Home Staging and Design LLC provides exceptional home staging to home owners, real estate agents and commercial builders. We have been staging properties to sell since 2007. Our goal and commitment to our home sellers is to create that important buyers connection and to showcase their home with contemporary style and appropriate home staging.'
-datePublished: '2016-03-14T13:06:03.997Z'
-dateModified: '2016-03-13T16:11:13.758Z'
+datePublished: '2016-03-15T10:59:03.764Z'
+dateModified: '2016-03-14T13:06:12.211Z'
 title: Home
 author: []
 sourcePath: _posts/2016-03-13-marketing-your-property-through-innovative-home-staging.md
