@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to the Hunter Home Staging and Design LLC gallery page. On this page you will find images representing innovative home staging to enhance the value of your home.
-datePublished: '2016-03-20T07:54:40.979Z'
-dateModified: '2016-03-20T07:48:28.546Z'
+datePublished: '2016-03-20T07:56:09.243Z'
+dateModified: '2016-03-20T07:56:06.169Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Gallery
-
 <article style=""><h1>Hunter Home Staging and Design LLC - gallery</h1><p>Welcome to the Hunter Home Staging and Design LLC gallery page. On this page you will find images representing innovative home staging to enhance the value of your home.</p></article>
