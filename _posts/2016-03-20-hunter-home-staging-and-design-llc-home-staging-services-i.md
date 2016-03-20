@@ -1,25 +1,30 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: 'Hunter Home Staging & Design LLC'
+datePublished: '2016-03-20T18:00:40.327Z'
+dateModified: '2016-03-20T18:00:16.237Z'
 author: []
 related: []
-publisher:
-  url: 'http://hunterstaging.com'
-  name: Hunterstaging
-  favicon: null
-  domain: hunterstaging.com
-keywords: []
-description: 'Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.'
 app_links: []
-isBasedOnUrl: 'http://hunterstaging.com/home.html'
-title: Hunter Home Staging and Design LLC - Home Staging Services in Seattle
-datePublished: '2016-03-20T17:58:36.961Z'
-dateModified: '2016-03-20T15:01:40.529Z'
+title: Home
 sourcePath: _posts/2016-03-20-hunter-home-staging-and-design-llc-home-staging-services-i.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Hunterstaging
+  domain: hunterstaging.com
+  url: 'http://hunterstaging.com'
+  favicon: null
+url: home/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Hunter Home Staging and Design LLC
+
 <article style=""><h1>Hunter Home Staging and Design LLC - Home Staging Services in Seattle</h1><p>Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.</p></article>
