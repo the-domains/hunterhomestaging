@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Professional home staging in the greater Seattle area.
-datePublished: '2016-03-20T15:25:19.514Z'
-dateModified: '2016-03-20T15:24:43.330Z'
+description: 'Marketing your property through innovative home staging!'
+datePublished: '2016-03-20T15:28:36.369Z'
+dateModified: '2016-03-20T15:28:32.297Z'
 title: 'Hunter Home Staging & Design'
 author: []
 sourcePath: _posts/2016-03-20-hunter-home-staging-and-design.md
@@ -23,5 +23,7 @@ _type: Article
 
 ---
 # Hunter Home Staging & Design
+
+## Home
 
 Marketing your property through innovative home staging!
