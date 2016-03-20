@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hunter Home Staging]]></title>
+        <description><![CDATA[Hunter Home Staging]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 07:42:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hunter Home Staging and Design LLC - Home Staging Services in Seattle]]></title>
+            <description><![CDATA[<article><h1>Hunter Home Staging and Design LLC - Home Staging Services in Seattle</h1><p>Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.</p></article>]]></description>
+            <link>http://hunterstaging.com/</link>
+            <guid isPermaLink="false">3309246a-1dc3-4f29-b343-73184800f81d</guid>
+            <pubDate>Sun, 20 Mar 2016 07:42:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
