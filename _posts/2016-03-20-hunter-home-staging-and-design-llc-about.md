@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to the Hunter Home Staging and Design LLC about page. On this page you will find all the information about Sandra Hunter and her passion for both home design and real estate.
-datePublished: '2016-03-20T07:47:53.869Z'
-dateModified: '2016-03-20T07:44:06.216Z'
+datePublished: '2016-03-20T07:55:15.474Z'
+dateModified: '2016-03-20T07:47:55.566Z'
 author: []
 related: []
 app_links: []
