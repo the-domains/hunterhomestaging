@@ -6,12 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First published 2013 Copyright (C) 2016 by Sandra Hunter. \_"
-datePublished: '2016-03-20T07:01:52.544Z'
-dateModified: '2016-03-20T07:01:44.158Z'
+datePublished: '2016-03-20T07:03:19.504Z'
+dateModified: '2016-03-20T07:02:01.456Z'
 author: []
 related: []
 app_links: []
-title: 'Hunter Home Staging and Design LLC, (HHS)'
+title: Current
 sourcePath: _posts/2016-03-14-hunter-home-staging-and-design-llc-home-staging-services-i.md
 published: true
 authors: []
