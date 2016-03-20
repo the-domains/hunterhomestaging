@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.'
-datePublished: '2016-03-20T08:20:31.807Z'
-dateModified: '2016-03-20T08:19:46.075Z'
+datePublished: '2016-03-20T08:41:01.108Z'
+dateModified: '2016-03-20T08:40:06.325Z'
 author: []
 related: []
 app_links: []
