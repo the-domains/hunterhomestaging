@@ -1,23 +1,26 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: On this page you will find all the information about Sandra Hunter and her passion for both home design and real estate.
+datePublished: '2016-03-20T08:37:52.744Z'
+dateModified: '2016-03-20T08:37:38.027Z'
 author: []
 related: []
-publisher:
-  url: 'http://hunterstaging.com'
-  name: Hunterstaging
-  favicon: null
-  domain: hunterstaging.com
-keywords: []
-description: Welcome to the Hunter Home Staging and Design LLC about page. On this page you will find all the information about Sandra Hunter and her passion for both home design and real estate.
 app_links: []
-isBasedOnUrl: 'http://hunterstaging.com/about.html'
-title: Hunter Home Staging and Design LLC - about
-datePublished: '2016-03-20T08:37:04.454Z'
-dateModified: '2016-03-20T08:36:45.704Z'
+title: About
 sourcePath: _posts/2016-03-20-hunter-home-staging-and-design-llc-about.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Hunterstaging
+  domain: hunterstaging.com
+  url: 'http://hunterstaging.com'
+  favicon: null
+url: about/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
