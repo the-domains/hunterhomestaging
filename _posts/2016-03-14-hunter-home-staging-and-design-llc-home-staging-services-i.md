@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First published 2013 Copyright (C) 2016 by Sandra Hunter. \_"
-datePublished: '2016-03-20T06:48:22.830Z'
-dateModified: '2016-03-20T06:47:45.577Z'
+datePublished: '2016-03-20T06:48:30.805Z'
+dateModified: '2016-03-20T06:48:23.183Z'
 author: []
 related: []
 app_links: []
@@ -45,3 +45,5 @@ Everett home back of house extra room.
 
 Seattle home basement extra room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8650c1db-25c6-4cf8-8d36-85715d870a68.jpg)
+
+Seattle home dining room.
