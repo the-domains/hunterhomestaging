@@ -11,8 +11,8 @@ description: Welcome to the Hunter Home Staging and Design LLC about page. On th
 app_links: []
 isBasedOnUrl: 'http://hunterstaging.com/about.html'
 title: Hunter Home Staging and Design LLC - about
-datePublished: '2016-03-20T08:35:28.030Z'
-dateModified: '2016-03-20T08:35:17.129Z'
+datePublished: '2016-03-20T08:37:04.454Z'
+dateModified: '2016-03-20T08:36:45.704Z'
 sourcePath: _posts/2016-03-20-hunter-home-staging-and-design-llc-about.md
 published: true
 inFeed: true
