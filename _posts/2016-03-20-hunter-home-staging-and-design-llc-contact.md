@@ -1,26 +1,23 @@
 ---
+author: []
+related: []
+publisher:
+  url: 'http://hunterstaging.com'
+  name: Hunterstaging
+  favicon: null
+  domain: hunterstaging.com
+keywords: []
+description: Welcome to the Hunter Home Staging and Design LLC gallery page. On this page you will find contact information on obtaining innovative home staging to enhance the value of your home.
+app_links: []
+isBasedOnUrl: 'http://hunterstaging.com/contact.html'
+title: Hunter Home Staging and Design LLC - contact
+datePublished: '2016-03-20T08:46:32.286Z'
+dateModified: '2016-03-20T08:46:22.596Z'
+sourcePath: _posts/2016-03-20-hunter-home-staging-and-design-llc-contact.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://hunterstaging.com/contact.html'
-inLanguage: null
-starred: false
-keywords: []
-description: Welcome to the Hunter Home Staging and Design LLC gallery page. On this page you will find contact information on obtaining innovative home staging to enhance the value of your home.
-datePublished: '2016-03-20T07:55:57.260Z'
-dateModified: '2016-03-20T07:55:53.413Z'
-author: []
-related: []
-app_links: []
-title: Contact
-sourcePath: _posts/2016-03-20-hunter-home-staging-and-design-llc-contact.md
-published: true
-authors: []
-publisher:
-  name: Hunterstaging
-  domain: hunterstaging.com
-  url: 'http://hunterstaging.com'
-  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
