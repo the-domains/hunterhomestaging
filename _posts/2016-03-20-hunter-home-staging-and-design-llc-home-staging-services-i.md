@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.'
-datePublished: '2016-03-20T08:12:31.301Z'
-dateModified: '2016-03-20T08:11:42.117Z'
+datePublished: '2016-03-20T08:13:32.007Z'
+dateModified: '2016-03-20T08:13:25.860Z'
 author: []
 related: []
 app_links: []
@@ -25,8 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Home
-
-## About
-
 <article style=""><h1>Hunter Home Staging and Design LLC - Home Staging Services in Seattle</h1><p>Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.</p></article>
