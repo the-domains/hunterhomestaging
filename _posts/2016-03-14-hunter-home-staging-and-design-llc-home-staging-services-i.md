@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://hunterstaging.com/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First published 2013 Copyright (C) 2016 by Sandra Hunter. \_"
-datePublished: '2016-03-20T06:48:30.805Z'
-dateModified: '2016-03-20T06:48:23.183Z'
+datePublished: '2016-03-20T06:52:51.667Z'
+dateModified: '2016-03-20T06:52:20.031Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: hunterstaging.com
   url: 'http://hunterstaging.com'
   favicon: null
+url: hunter-home-staging-and-design-llc-hhs/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
