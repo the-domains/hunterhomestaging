@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: On this page you will find all the information about Sandra Hunter and her passion for both home design and real estate.
-datePublished: '2016-03-20T08:37:52.744Z'
-dateModified: '2016-03-20T08:37:38.027Z'
+datePublished: '2016-03-20T08:41:14.099Z'
+dateModified: '2016-03-20T08:40:23.817Z'
 author: []
 related: []
 app_links: []
