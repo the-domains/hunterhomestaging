@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First published 2013 Copyright (C) 2016 by Sandra Hunter.'
-datePublished: '2016-03-20T05:54:56.455Z'
-dateModified: '2016-03-20T05:54:23.917Z'
+datePublished: '2016-03-20T06:10:13.351Z'
+dateModified: '2016-03-20T06:09:56.726Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/410e885f-644b-45cd-8cb1-fb87bd4cb9bf.jpg)
+
+Everett home north of Seattle during the month of July, 2015\. Sandra and Tim sold the 2/3 acre lot with house and two detached structures - tool shed and pool pump house. This being residence for the Moreland's since 2001\. Sandra Hunter of Hunter Home Staging and Design LLC. staged this home of hers with the help of her husband Tim Moreland.
+
 Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First published 2013 Copyright (C) 2016 by Sandra Hunter.
 
 This is a work of Hunter Home Staging business and service in the greater Seattle area. 
