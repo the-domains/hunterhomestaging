@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Hunter Home Staging]]></title>
         <description><![CDATA[Hunter Home Staging]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hunterhomestaging/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 07:42:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 07:43:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hunterhomestaging/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hunter Home Staging and Design LLC - about]]></title>
+            <description><![CDATA[<article><h1>Hunter Home Staging and Design LLC - about</h1><p>Welcome to the Hunter Home Staging and Design LLC about page. On this page you will find all the information about Sandra Hunter and her passion for both home design and real estate.</p></article>]]></description>
+            <link>http://hunterstaging.com/about.html</link>
+            <guid isPermaLink="false">8581e5ff-c293-45f7-af8b-c36bdd9b0d52</guid>
+            <pubDate>Sun, 20 Mar 2016 07:43:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hunter Home Staging and Design LLC - Home Staging Services in Seattle]]></title>
             <description><![CDATA[<article><h1>Hunter Home Staging and Design LLC - Home Staging Services in Seattle</h1><p>Welcome to the Hunter Home Staging and Design, LLC. On our website you will find all the information about innovative real estate home staging to enhance the value of your home.</p></article>]]></description>
