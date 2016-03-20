@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to the Hunter Home Staging and Design LLC gallery page. On this page you will find contact information on obtaining innovative home staging to enhance the value of your home.
-datePublished: '2016-03-20T07:54:28.155Z'
-dateModified: '2016-03-20T07:54:16.079Z'
+datePublished: '2016-03-20T07:55:57.260Z'
+dateModified: '2016-03-20T07:55:53.413Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Contact
-
 <article style=""><h1>Hunter Home Staging and Design LLC - contact</h1><p>Welcome to the Hunter Home Staging and Design LLC gallery page. On this page you will find contact information on obtaining innovative home staging to enhance the value of your home.</p></article>
