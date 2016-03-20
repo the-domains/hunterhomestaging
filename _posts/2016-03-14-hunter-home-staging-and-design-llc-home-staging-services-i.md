@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First published 2013 Copyright (C) 2016 by Sandra Hunter. \_"
-datePublished: '2016-03-20T07:26:12.289Z'
-dateModified: '2016-03-20T07:25:42.911Z'
+description: "Hunter Home Staging a Sandra L. Hunter owned website created by Timothy W. Moreland all rights reserved. No part of this site may be reproduced in any manner whatsoever, including internet usage, without written permission from the author except in the case of brief quotations embedded in critical articles and reviews. First edition published 2013. Second edition published 2016 on The Grid\_(C) 2016 by Sandra Hunter."
+datePublished: '2016-03-20T07:29:55.562Z'
+dateModified: '2016-03-20T07:29:27.859Z'
 author: []
 related: []
 app_links: []
