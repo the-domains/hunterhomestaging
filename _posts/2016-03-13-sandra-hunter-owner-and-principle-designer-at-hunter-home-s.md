@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sandra Hunter, owner and principle designer at Hunter Home Staging and Design LLC, has been home staging professionally since 2007. She has staged more than 400 homes.'
-datePublished: '2016-03-20T07:04:13.540Z'
-dateModified: '2016-03-20T07:02:46.781Z'
+datePublished: '2016-03-20T07:29:40.147Z'
+dateModified: '2016-03-20T07:29:11.246Z'
 title: About
 author: []
 sourcePath: _posts/2016-03-13-sandra-hunter-owner-and-principle-designer-at-hunter-home-s.md
