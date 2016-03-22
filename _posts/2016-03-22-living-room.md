@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T02:56:52.840Z'
-dateModified: '2016-03-22T02:56:45.426Z'
+datePublished: '2016-03-22T03:01:48.317Z'
+dateModified: '2016-03-22T03:01:42.474Z'
 title: Living Room
 author: []
 sourcePath: _posts/2016-03-22-living-room.md
