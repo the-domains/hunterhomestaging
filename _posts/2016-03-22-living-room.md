@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T02:49:08.620Z'
-dateModified: '2016-03-22T02:49:04.848Z'
+datePublished: '2016-03-22T02:56:52.840Z'
+dateModified: '2016-03-22T02:56:45.426Z'
 title: Living Room
 author: []
 sourcePath: _posts/2016-03-22-living-room.md
@@ -32,3 +32,8 @@ _Staged to direct the path of the buyer emphasizing the living space._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a4dc17-b66b-4f7d-9791-53ef7e1dfc3e.jpg)
 
 _Staged living space._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c9d9c20-38bb-40c4-a94d-1ca26eb6a6dd.jpg)
+
+_Buyers who visualize themselves in the living space will likely make an offer._
+
+- Timothy W. Moreland, Monday, March 21, 2016
