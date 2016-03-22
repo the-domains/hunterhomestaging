@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-22T03:01:48.317Z'
-dateModified: '2016-03-22T03:01:42.474Z'
+description: Living rooms staged to enhance living space
+datePublished: '2016-03-22T03:08:03.080Z'
+dateModified: '2016-03-22T03:07:56.603Z'
 title: Living Room
 author: []
 sourcePath: _posts/2016-03-22-living-room.md
@@ -22,7 +22,7 @@ url: living-room/index.html
 _type: Article
 
 ---
-Living Room
+## Hunter Home Staging and Design LLC
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f22b08-5be7-44e3-84e0-e342b86b1277.jpg)
 
 _Staged to capture the buyers imagination for placing themselves into the living space._
