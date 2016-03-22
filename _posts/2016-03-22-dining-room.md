@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Staged dining room.
-datePublished: '2016-03-22T03:24:10.363Z'
-dateModified: '2016-03-22T03:23:51.184Z'
+datePublished: '2016-03-22T11:57:34.628Z'
+dateModified: '2016-03-22T11:57:28.480Z'
 title: Dining Room
 author: []
+sourcePath: _posts/2016-03-22-dining-room.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-dining-room.md
-published: true
 url: dining-room/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 ## Hunter Home Staging and Design LLC
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecaefc1a-31cc-4de2-9d6a-1ecb5c07c2a5.jpg)
 
-_Staged to emphasis the large seating area._
+_Staged to emphasis large seating area._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05bdadc4-d024-4093-a028-17d5a1aa24fb.jpg)
 
 _Staged dining room._
