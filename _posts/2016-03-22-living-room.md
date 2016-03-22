@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T02:25:58.946Z'
-dateModified: '2016-03-22T02:25:33.294Z'
+datePublished: '2016-03-22T02:49:08.620Z'
+dateModified: '2016-03-22T02:49:04.848Z'
 title: Living Room
 author: []
 sourcePath: _posts/2016-03-22-living-room.md
@@ -29,3 +29,6 @@ _Staged to capture the buyers imagination for placing themselves into the living
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faaa1d09-b3da-41b2-a2ef-e23e87d57dd0.jpg)
 
 _Staged to direct the path of the buyer emphasizing the living space._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a4dc17-b66b-4f7d-9791-53ef7e1dfc3e.jpg)
+
+_Staged living space._
