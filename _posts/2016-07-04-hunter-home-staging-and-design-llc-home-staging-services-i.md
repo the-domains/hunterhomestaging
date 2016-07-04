@@ -8,8 +8,8 @@ keywords: []
 description: >-
   On our website you will find all the information about innovative real estate
   home staging to enhance the value of your home.
-datePublished: '2016-07-04T21:01:28.833Z'
-dateModified: '2016-07-04T21:01:22.804Z'
+datePublished: '2016-07-04T21:06:07.277Z'
+dateModified: '2016-07-04T21:01:36.116Z'
 author: []
 related: []
 app_links: []
