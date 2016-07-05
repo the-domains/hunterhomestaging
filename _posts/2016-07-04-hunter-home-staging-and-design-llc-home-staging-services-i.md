@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://hunterstaging.com/'
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   On our website you will find all the information about innovative real estate
   home staging to enhance the value of your home.
-datePublished: '2016-07-04T21:06:07.277Z'
-dateModified: '2016-07-04T21:01:36.116Z'
+datePublished: '2016-07-05T03:51:01.323Z'
+dateModified: '2016-07-05T03:50:48.225Z'
 author: []
 related: []
 app_links: []
@@ -23,6 +22,7 @@ publisher:
   url: 'http://hunterstaging.com'
   favicon: null
 starred: false
+url: hunter-home-staging-and-design-llc-home-staging-services-i/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
