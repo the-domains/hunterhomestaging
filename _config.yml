@@ -31,6 +31,9 @@ navigation:
   - name: About
     id: 35717270-7870-488e-948b-436e3e37ab44
     type: content
+  - name: Services
+    id: 659e9b76-1633-410f-b104-fd44b5ac6f48
+    type: content
 favicon: null
 title: Hunter Home Staging & Design
 description: Staging homes to sell since 2007
