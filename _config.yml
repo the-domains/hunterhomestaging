@@ -37,6 +37,9 @@ navigation:
   - name: Gallery
     id: 66b4802c-3d0e-4c85-88ef-c3d84fde3a13
     type: content
+  - name: Contact
+    id: 8777ed05-d0b5-4a74-a9e9-295ca9821f38
+    type: content
 favicon: null
 title: Hunter Home Staging & Design
 description: Staging homes to sell since 2007
