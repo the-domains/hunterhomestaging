@@ -1,29 +1,30 @@
 ---
+datePublished: '2016-08-31T11:05:55.703Z'
+sourcePath: _posts/2016-07-05-hhs-gallery-home.md
 inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: >-
-  On this page you will find images of staged homes by Hunter Home Staging &
-  Design LLC to enhance the value of client homes.
-datePublished: '2016-07-05T04:01:58.242Z'
-dateModified: '2016-07-05T04:01:13.903Z'
-author: []
-related: []
-app_links: []
-title: HHS Gallery Home
 authors: []
+hasPage: true
+keywords: []
+related: []
+author: []
+via: {}
+dateModified: '2016-08-31T11:05:55.334Z'
+title: Gallery
+app_links: []
 publisher:
   name: Hunterstaging
   domain: hunterstaging.com
   url: 'http://hunterstaging.com'
   favicon: null
+description: >-
+  On this page you will find images of staged homes by Hunter Home Staging &
+  Design LLC to enhance the value of client homes.
+inLanguage: null
+inNav: true
 starred: false
-sourcePath: _posts/2016-07-05-hhs-gallery-home.md
 url: hhs-gallery-home/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>HHS Gallery Home</h1><p>On this page you will find images of staged homes by Hunter Home Staging &amp; Design LLC to enhance the value of client homes.</p></article>
+<article style=""><h1>Gallery</h1><p>On this page you will find images of staged homes by Hunter Home Staging &amp; Design LLC to enhance the value of client homes.</p></article>
