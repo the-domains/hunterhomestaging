@@ -28,6 +28,9 @@ navigation:
   - name: Hunter Home Staging & Design
     url: 'http://www.hunterstaging.com'
     type: external
+  - name: About
+    id: 35717270-7870-488e-948b-436e3e37ab44
+    type: content
 favicon: null
 title: Hunter Home Staging & Design
 description: Staging homes to sell since 2007
