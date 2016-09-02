@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Hunter Home Staging & Design
+    url: 'http://www.hunterstaging.com'
+    type: external
 favicon: null
 title: Hunter Home Staging & Design
 description: Staging homes to sell since 2007
